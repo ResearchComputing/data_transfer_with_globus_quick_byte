@@ -13,3 +13,9 @@ during the presentation.
 \* What’s an RC Quick Byte?: An RC Quick Byte is a 20-30 minute sessions intended to 
 provide essential information about a specific topic. You can expect to leave a 'Quick 
 Byte' with the information you need to apply a tool, service, or concept.
+
+--- 
+
+We aim to make our online resources accessible to everyone. 
+If you encounter any barriers in the materials contained in this repository, please report them through our support request form
+https://colorado.service-now.com/req_portal?id=ucb_sc_rc_form
